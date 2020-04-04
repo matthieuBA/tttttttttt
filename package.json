@@ -1,0 +1,24 @@
+{
+  "name": "tttttttttt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthieuBA/tttttttttt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthieuBA/tttttttttt/issues"
+  },
+"homepage":"https://matthieuBA.github.io/tttttttttt",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
